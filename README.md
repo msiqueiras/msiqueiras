@@ -5,5 +5,8 @@ Estou no 1º semestre e estou tendo aulas práticas de Algoritmos.
 ### 🧑‍💻 Sou aluna do Programa Bolsa Futuro Digital
 O bsf é um programa de aceleramento de carreira oferecido pela empresa SOFTEX PE com parceria com o Governo Federal.
 Escolhi ser da área de Back-End.
-## 🖥️ Tenho interesse em dados, inteligência artifical, desenvolvimento de software e interação humano-computador.
+### 🖥️ Tenho interesse em dados, inteligência artifical, desenvolvimento de software e interação humano-computador.]
+## Contatos:
+E-mail: devef.msiqueira@gmail.com
+LinkedIn: https://www.linkedin.com/in/marialuiza-siqueira
 
