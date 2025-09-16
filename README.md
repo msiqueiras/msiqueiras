@@ -1,6 +1,6 @@
-# Olá rede 🙋, pode me chamar de Siqueira!
-Sou Discente de graduação de bacharelado em Sistemas de Informação na Universidade Federal do Pará (UFPA) e estou como voluntária no Laboratório de Inteligência de Dados (LID). Atualmente também participo da formação back-end do bolsa futuro digital SOFTEX PE. 
-## Contatos:
+# Hey community 🙋, you can call me by Siqueira!
+I'm Information Systems undergraduate student at Federal University of Pará (Pará, Brazil) and I'm data science and artificial intelligence researcher at Laboratório de Inteligência de Dados.
+## Contact information:
 E-mail: devef.msiqueira@gmail.com
 LinkedIn: https://www.linkedin.com/in/marialuiza-siqueira
 
