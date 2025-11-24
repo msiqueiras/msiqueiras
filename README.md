@@ -1,5 +1,5 @@
 # Hey community 🙋, you can call me by Siqueira!
-I'm Information Systems undergraduate student at Federal University of Pará (Pará, Brazil), currently I study web development back-end and I'm data science and artificial intelligence researcher at Laboratório de Inteligência de Dados.
+I'm an Information Systems undergraduate student at Federal University of Pará (Pará, Brazil), currently I study web development back-end and I'm a data science and artificial intelligence researcher at Laboratório de Inteligência de Dados.
 
 # My tools 🧰
 <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <img width ='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" /> <img width ='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> <img width ='100' hight ='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
