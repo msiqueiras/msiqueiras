@@ -1,5 +1,5 @@
-# 💫 About Me:
-🎉 Congrats! You found my GitHub profile. I'm Brazilian and... <br><br>🎓 Undergraduate student in Information Systems at the Federal University of Pará (UFPA).<br>🔬 Research Assistant in Data Science and AI at the Data Intelligence Laboratory (LID).<br>🌱 Currently working with Computer Vision to classify water stress in açaí plants.<br>💡 Main interests: Artificial Intelligence, Computer Networks, and Science & Technology Studies.
+# 🎉 Congrats! You found my GitHub profile 
+I'm Brazilian and... <br><br>🎓 Undergraduate student in Information Systems at the Federal University of Pará (UFPA).<br>🔬 Research Assistant in Data Science and AI at the Data Intelligence Laboratory (LID).<br>🌱 Currently working with Computer Vision to classify water stress in açaí plants.<br>💡 Main interests: Artificial Intelligence, Computer Networks, and Science & Technology Studies.
 
 
 ## 🌐 Socials:
