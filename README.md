@@ -1,8 +1,11 @@
-# 🎉 Congrats! You found my GitHub profile. On purpose? I hope so! Anyway, you can call me Siqueira.
-I'm an Information Systems undergraduate student at the Federal University of Pará (UFPA), currently I'm a data science and artificial intelligence research assistant at Data Intelligence Laboratory (LID) 🔬🇧🇷
-          
-## Contact information:
-<img width='30' hight='0.2' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> LinkedIn: https://www.linkedin.com/in/marialuiza-siqueira
-📬 E-mail: devef.msiqueira@gmail.com
-          
-          
+# 💫 About Me:
+🎉 Congrats! You found my GitHub profile. I'm Brazilian and... <br><br>🎓 Undergraduate student in Information Systems at the Federal University of Pará (UFPA).<br>🔬 Research Assistant in Data Science and AI at the Data Intelligence Laboratory (LID).<br>🌱 Currently working with Computer Vision to classify water stress in açaí plants.<br>💡 Main interests: Artificial Intelligence, Computer Networks, and Science & Technology Studies.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marialuiza-siqueira) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mlrsiqueiras@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
